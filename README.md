@@ -38,7 +38,6 @@ Every tool follows the same build pattern:
 ## Repository layout
 
     cflow/    call-graph tool
-    docs/     design specs and implementation plans
     tree/     directory-tree lister
     watch/    command-repeater
 
